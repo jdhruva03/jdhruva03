@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated with Bachelors in Computer Science and Mathematics at University of Kentucky.
-- 🎓 &nbsp; Incoming Computer Science Doctoral Candidate at University of Kentucky.
-- 🌱 &nbsp; Learning more about Machine Learning, Cyber-Physical Systems and Applied Mathematics.
+- 🎓 &nbsp; Computer Science Doctoral Candidate at University of Kentucky.
+- 🌱 &nbsp; Learning more about Energy Management, Cyber-Physical Systems, Machine Learning, and Applied Mathematics.
 - ✍️ &nbsp; Currently learning Chess.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
